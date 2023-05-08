@@ -1,7 +1,7 @@
 # GIM
-Esercizi di Grafica in movimento 2023
+Esercizio di Grafica in movimento 2023
 
-## Esercizi 1A
+## Esercizio 1A
 Esercizi di grafica in movimento  
 [Aperto chiuso 2 frame](Esercizio_1A/aperto_chiuso_2.html)  
 [Aperto chiuso 3 frame](Esercizio_1A/aperto_chiuso_3.html)   
