@@ -1,5 +1,5 @@
 # GIM
-Esercizio di Grafica in movimento 2023
+Grafica in movimento_CV214.03 
 
 ## Esercizio 1A  
 [Aperto chiuso 2 frame](https://mombrini.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html)  
