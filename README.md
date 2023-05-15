@@ -18,14 +18,14 @@ Esercizio di Grafica in movimento 2023
 [Parole](https://mombrini.github.io/GIM/Esercizio_2A_index)  
 
 ## Esercizio 2B  
-[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Movimento come forma e senso_3.html)
+[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Esercizio_2B/Movimento come forma e senso_3.html)
 
 ## Esercizio 3  
-[Disegno](https://mombrini.github.io/GIM/index.html)   
-[Pong](https://mombrini.github.io/GIM/index.html)  
-[Palloncini](https://mombrini.github.io/GIM/index.html)  
-[Neve](https://mombrini.github.io/GIM/index.html)  
-[Pioggia](https://mombrini.github.io/GIM/index.html)  
+[Disegno](https://mombrini.github.io/GIM/1_disegno/index.html)     
+[Pong](https://mombrini.github.io/GIM/2_pong/index.html)  
+[Palloncini](https://mombrini.github.io/GIM/3_palloncini/index.html)    
+[Neve](https://mombrini.github.io/GIM/4_neve/index.html)  
+[Pioggia](https://mombrini.github.io/GIM/5_pioggia/index.html)  
 
 
 
