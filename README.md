@@ -20,8 +20,8 @@ Esercizio di Grafica in movimento 2023
 ## Esercizio 2B
 [Movimento come forma e senso_3](https://mombrini.github.io/GIM/Movimento come forma e senso_3.html)
 
-## Esercizio 3
-[Disegno](https://mombrini.github.io/GIM/index.html)  
+## Esercizio 3  
+[Disegno](https://mombrini.github.io/GIM/index.html)   
 [Pong](https://mombrini.github.io/GIM/index.html)  
 [Palloncini](https://mombrini.github.io/GIM/index.html)  
 [Neve](https://mombrini.github.io/GIM/index.html)  
