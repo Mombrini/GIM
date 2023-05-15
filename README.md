@@ -17,6 +17,25 @@ Esercizi di grafica in movimento
 [Dittico](https://mombrini.github.io/GIM/Esercizio_1B/indexB)  
 
 ## Esercizio 2A
-Esercizi di grafica in movimento  
+Esercizio di grafica in movimento  
 [Parole](https://mombrini.github.io/GIM/Esercizio_2A_index)  
+
+## Esercizio 2B
+Esercizio di grafica in movimento  
+[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Movimento come forma e senso_3.html)
+
+## Esercizio 3
+Esercizio di grafica in movimento
+[Disegno](https://mombrini.github.io/GIM/index.html)
+[Pong](https://mombrini.github.io/GIM/index.html)
+[Palloncini](https://mombrini.github.io/GIM/index.html)
+[Neve](https://mombrini.github.io/GIM/index.html)
+[Pioggia](https://mombrini.github.io/GIM/index.html)
+
+
+
+
+
+
+
 
