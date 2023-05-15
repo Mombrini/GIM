@@ -18,7 +18,7 @@ Esercizio di Grafica in movimento 2023
 [Parole](https://mombrini.github.io/GIM/Esercizio_2A/index.html)  
 
 ## Esercizio 2B  
-[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Esercizio_2B/Movimentocomeformaesenso_3.html)  
+[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Esercizio_2B/Movimento come forma e senso_3.html)  
 
 ## Esercizio 3  
 [Disegno](https://mombrini.github.io/GIM/Esercizio_3/esempi/1_disegno/)       
