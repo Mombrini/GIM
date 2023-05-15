@@ -22,7 +22,7 @@ Esercizio di Grafica in movimento 2023
 
 ## Esercizio 3  
 [Disegno](https://mombrini.github.io/GIM/Esercizio_3/esempi/1_disegno/)        
-[Palloncini](https://mombrini.github.io/GIM/Esercizio_3/esempi/3_palloncini/)       
+[Pong](https://mombrini.github.io/GIM/Esercizio_3/esempi/3_pong/)       
 [Neve](https://mombrini.github.io/GIM/Esercizio_3/esempi/4_neve/)     
 [Pioggia](https://mombrini.github.io/GIM/Esercizio_3/esempi/5_pioggia/)     
 
