@@ -15,17 +15,17 @@ Esercizio di Grafica in movimento 2023
 [Dittico](https://mombrini.github.io/GIM/Esercizio_1B/indexB)  
 
 ## Esercizio 2A 
-[Parole](https://mombrini.github.io/GIM/Esercizio_2A_index)  
+[Parole](https://mombrini.github.io/GIM/Esercizio_2A/index.html)  
 
 ## Esercizio 2B  
-[Movimento come forma e senso_3](https://mombrini.github.io/GIM/Esercizio_2B/Movimento come forma e senso_3.html)
+[Movimento](https://mombrini.github.io/GIM/Esercizio_2B/Movimentocomeformaesenso_3.html)  
 
 ## Esercizio 3  
-[Disegno](https://mombrini.github.io/GIM/Esercizio_3/index.html)     
-[Pong](https://mombrini.github.io/GIM/Esercizio_3/index.html)  
-[Palloncini](https://mombrini.github.io/GIM/Esercizio_3/index.html)    
-[Neve](https://mombrini.github.io/GIM/Esercizio_3/index.html)  
-[Pioggia](https://mombrini.github.io/GIM/Esercizio_3/index.html)  
+[Disegno](https://mombrini.github.io/GIM/Esercizio_3/esempi/1_disegno/)       
+[Pong](https://mombrini.github.io/GIM/Esercizio_3/esempi/2_pong/)  
+[Palloncini](https://mombrini.github.io/GIM/Esercizio_3/esempi/3_palloncini/)       
+[Neve](https://mombrini.github.io/GIM/Esercizio_3/esempi/4_neveo/)     
+[Pioggia](https://mombrini.github.io/GIM/Esercizio_3/esempi/5_pioggia/)     
 
 
 
