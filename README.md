@@ -13,10 +13,10 @@ Esercizi di grafica in movimento
 [Spostamento 3 frame](https://mombrini.github.io/GIM/Esercizio_1A/spostamento_3.html)  
 
 ## Esercizio 1B
-Esercizi di grafica in movimento
+Esercizi di grafica in movimento  
 [Dittico](https://mombrini.github.io/GIM/Esercizio_1B/indexB)  
 
 ## Esercizio 2A
-Esercizi di grafica in movimento
+Esercizi di grafica in movimento  
 [Parole](https://mombrini.github.io/GIM/Esercizio_2A_index)  
 
