@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Nome Cognome" />
-	<title>Prova 2</title>
+	<title>Rotazione 3</title>
 	<style type="text/css">
 		html{
 			height:100%;
@@ -18,7 +18,7 @@
 			top: 50%;
 		}
 		#sx {
-			left: calc(50% - 180px);
+			left: calc(50% - 220px);
 		}
 		#dx {
 			left: calc(50% + 220px);
@@ -34,19 +34,12 @@
 
 		Sequencer.make({
 			canvas       	 : document.querySelector("#sx"),
-			from         	 : "img/pac man/f67a122b8f6af771bcabd8db7c641c5e_out0004.png",
-			to           	 : "img/pac man/f67a122b8f6af771bcabd8db7c641c5e_out0016.png",
+			from         	 : "img/Movimento/0001.png",
+			to           	 : "img/Movimento/0011.png",
 			direction        : "x",
 			playMode         : "hover",
 			loop         	 : "loop",
-		})
-		Sequencer.make({
-			canvas       	 : document.querySelector("#dx"),
-			from         	 : "img/pac man/f67a122b8f6af771bcabd8db7c641c5e_out0017.png",
-			to           	 : "img/pac man/f67a122b8f6af771bcabd8db7c641c5e_out0032.png",
-			direction        : "x",
-			playMode         : "hover",
-			loop         	 : "loop",
+		
 		})
 
 	</script>
