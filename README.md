@@ -17,8 +17,8 @@ Grafica in movimento_CV214.03
 ## Esercizio 2A 
 [Parole](https://mombrini.github.io/GIM/Esercizio_2A/index.html)  
 
-## Esercizio 2B  
-[Movimento_forma_senso](https://mombrini.github.io/GIM/Esercizio_2B/Movimento_forma_senso_3.html)  
+## Esercizio 2B    
+[Movimento_forma_senso](https://mombrini.github.io/GIM/Esercizio_2B/Movimento_forma_senso.html)  
 
 ## Esercizio 3  
 [Disegno](https://mombrini.github.io/GIM/Esercizio_3/esempi/1_disegno/)          
