@@ -28,7 +28,7 @@ Grafica in movimento_CV214.03
 
 ## Esercizio 4
 [Color time: orologio](https://mombrini.github.io/GIM/Esercizio_4/orologio_analogico/index.html)  
-
+[AFFRETTATI!](https://mombrini.github.io/GIM/Esercizio_4/orologio_digitale/index.html) 
 
 
 
