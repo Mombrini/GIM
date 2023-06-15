@@ -27,7 +27,7 @@ Grafica in movimento_CV214.03
 [Pioggia](https://mombrini.github.io/GIM/Esercizio_3/esempi/5_pioggia/)       
 
 ## Esercizio 4
-[Color time: orologio](https://mombrini.github.io/GIM/Esercizio_4/orologio_analogico/index.html)  
+[Rainbow Clock: orologio](https://mombrini.github.io/GIM/Esercizio_4/orologio_analogico/index.html)  
 [AFFRETTATI!](https://mombrini.github.io/GIM/Esercizio_4/orologio_digitale/index.html) 
 
 
