@@ -1,48 +1,49 @@
-var canvas = document.getElementById('snowCanvas');
-var ctx = canvas.getContext('2d');
+// Array che conterrà i gocce di pioggia
+var pioggia = [];
 
-canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
-
-var snowflakes = [];
-
-function Snowflake() {
-  this.x = Math.random() * canvas.width;
-  this.y = -50;
-  this.speed = Math.random() * 6 + 8;
-  this.radius = 1 //Math.random() * 4 + 1;
-  this.opacity = Math.random() * 0.5 + 0.5;
-
-  this.update = function() {
-    this.y += this.speed;
-    if (this.y > canvas.height) {
-      this.y = -50;
-      this.x = Math.random() * canvas.width;
-    }
+// Funzione per creare una nuova goccia di pioggia
+function nuovaPioggia() {
+  var fiocco = {
+    x: Math.random() * windowWidth, // Posizione orizzontale casuale
+    y: -10, // Posizione iniziale sopra la finestra
+    diametro: Math.random() * 10 + 10, 
+    velocita: Math.random() * 30 + 30 // Velocità casuale
   };
-
-  this.draw = function() {
-    ctx.beginPath();
-    ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-    ctx.fillStyle = "rgba(0, 0, 0, " + this.opacity + ")";
-    ctx.fill();
-  };
+  pioggia.push(fiocco);
 }
 
-function createSnowflakes() {
-  for (var i = 0; i < 500; i++) {
-    snowflakes.push(new Snowflake());
-  }
+function setup(){
+	createCanvas(windowWidth, windowHeight)
+    frameRate(30); // Imposta il frame rate a 30 frame al secondo
+
+   	// Crea gocce
+   	for (var i = 0; i < 1000; i++) {
+    	nuovaPioggia();
+  	}
 }
 
-function animateSnowflakes() {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-  for (var i = 0; i < snowflakes.length; i++) {
-    snowflakes[i].update();
-    snowflakes[i].draw();
-  }
-  requestAnimationFrame(animateSnowflakes);
-}
+function draw(){
+	
+	background(10,50,125)
 
-createSnowflakes();
-animateSnowflakes();
+	// Disegna e aggiorna le gocce
+	for (var i = 0; i < pioggia.length; i++) {
+    	var goccia = pioggia[i];
+
+  
+    	fill(255); // Colore bianco
+    	noStroke();
+      
+    	ellipse(goccia.x, goccia.y, 1, goccia.diametro);
+
+    	// Aggiorna la posizione d
+    	goccia.y += goccia.velocita;
+
+    	// Se la goccia esce dalla finestra, creane una nuova
+    	if (goccia.y > windowHeight) {
+          nuovaPioggia();
+      		pioggia.splice(i, 1); // Rimuovi la goccia corrente dall'array
+    	}
+  	}
+
+}

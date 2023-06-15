@@ -1,5 +1,6 @@
 function setup(){
 	createCanvas(windowWidth, windowHeight)
+	frameRate(1);
 }
 
 function draw(){
@@ -13,37 +14,39 @@ function draw(){
 	let angolo_m = TWO_PI / 60 * m
 	let angolo_s = TWO_PI / 60 * s + TWO_PI / 60 * ms / 1000
 
-	background(125)
+	background(random(255),random(255),random(255))
 
 	// spostiamo l'origine in centro 
 	translate(width/2, height/2)	
 	scale (0.8)
 
 	// bordo esterno
-	noStroke()
 	fill(225,225,225)
+	stroke(0)
+	strokeWeight(3)
 	ellipse(0, 0, 440, 440)
-
+	noStroke()
 	//fill(0)
 	push()
-	for (let i=0; i<60; i++) {
+	for (let i=0; i<60; i++) { 
 	    if (s<i) {	
 			fill(225,225,225)
 	    } else {		
-		   if (s>=0 && s<15) {	
-				fill(235, 125, 0)
-			} else if (s>=15 && s<30) {	
-				fill(0, 130, 0)
-			} else if (s>=30 && s<45) {	
-				fill(0, 0, 235)
-			} else {
-				fill(130, 0, 225)
-			}	 
+		   //if (s>=0 && s<15) {	
+				fill(random(255), random(255), random(255))
+			//} else if (s>=15 && s<30) {	
+			//	fill(0, random(255), 0)
+			//} else if (s>=30 && s<45) {	
+			//	fill(0, 0, random(255))
+			//} else {
+			//	fill(random(255), 0, 225)
+			//}	 
 	    }
 		if (i % 5 == 0) {
 			ellipse(0, -190, 15, 50)
+			rect(-1, -160, 1, 120)
 		} else {		
-			rect(-1, -210, 1, 210)
+			rect(-1, -160, 1, 120)
 		}
 		
 		rotate(TWO_PI / 60)
@@ -72,7 +75,7 @@ function draw(){
 	push()
 	rotate(angolo_s)	
 	rect (0, 40, 4, -180)
-	triangle(0,-180,20,-140,-20,-140)
+	triangle(0,-180,20,-140,-18,-140)
 	//ellipse(0, -140, 40, 40)
 	pop()
 
