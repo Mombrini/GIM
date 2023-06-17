@@ -31,7 +31,7 @@ Grafica in movimento_CV214.03
 Vivi il tempo con intensità cromatica, grazie all'orologio dai mille colori  
 [Color Time: orologio 1](https://mombrini.github.io/GIM/Esercizio_4/orologio_analogico/index.html) 
 
-Orologio utile per non arrivare al giorno fatidico senza aver compiuto il tuo dovere! 
+Orologio utile per non arrivare al giorno fatidico senza aver compiuto il tuo dovere!  
 [AFFRETTATI!: orologio 2](https://mombrini.github.io/GIM/Esercizio_4/orologio_digitale/index.html) 
 
 
